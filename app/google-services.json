@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405180621718",
+    "firebase_url": "https://fcm-testing-51b97.firebaseio.com",
+    "project_id": "fcm-testing-51b97",
+    "storage_bucket": "fcm-testing-51b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405180621718:android:1f15b29a0b6b6e193a73b7",
+        "android_client_info": {
+          "package_name": "com.techlogics.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405180621718-l48vckvifh6mgb9r8uommffn8358jsh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVl_ybRVm0wYS-6RetT6vuo9E3tKdbHaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405180621718-l48vckvifh6mgb9r8uommffn8358jsh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
